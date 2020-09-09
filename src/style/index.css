@@ -80,6 +80,7 @@ ul {
   margin: 0;
   background-color: white;
   width: 49%;
+  height: 502px;
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -97,6 +98,10 @@ ul {
 }
 
 .main-figure-button {
-  margin-top: 20px;
+  margin-top: 22%;
+  border: gray;
+}
+.main-figure-button-right {
+  margin-top: 19%;
   border: gray;
 }
